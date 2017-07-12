@@ -1,3 +1,8 @@
 body {
     background-color: navy;
 }
+
+.container {
+    width: 75%;
+    margin: auto;
+}
