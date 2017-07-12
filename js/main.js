@@ -1,7 +1,5 @@
 var number = 0;
 
-console.log('number, incremented:' + ++number);
-
 var heading1 = document.getElementsByTagName('h1')[0];
 
 heading1.addEventListener('click', myFunction);
