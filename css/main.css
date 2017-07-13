@@ -11,4 +11,5 @@ body {
 form p input,
 form textarea {
     width: 75%;
+    display: block;
 }
