@@ -1,3 +1,7 @@
 body {
     background-color: lightsalmon;
 }
+
+img {
+    width: 100%;
+}
