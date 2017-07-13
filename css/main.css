@@ -21,6 +21,10 @@ img {
     width: 100%;
 }
 
+article {
+    padding: 0 3% 0 3%;
+}
+
 p {
     font-family: 'Josefin Slab', serif;
 }
