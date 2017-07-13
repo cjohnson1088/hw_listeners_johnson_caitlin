@@ -34,3 +34,8 @@ footer {
     background-color: #80ebf3;
     padding: 6px;
 }
+
+footer a {
+    color: lightsalmon;
+    text-decoration: none;
+}
