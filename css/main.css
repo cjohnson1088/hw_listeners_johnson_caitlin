@@ -28,3 +28,8 @@ article {
 p {
     font-family: 'Josefin Slab', serif;
 }
+
+footer {
+    background-color: #80ebf3;
+    padding: 6px;
+}
