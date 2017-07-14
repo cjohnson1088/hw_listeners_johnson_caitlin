@@ -15,3 +15,13 @@ heading.addEventListener('mouseout', function (event) {
 document.getElementsByTagName('input')[2].addEventListener('click', function (event) {
     event.target.style.backgroundColor = 'teal';
 });
+
+//This focuses on input field
+
+document.getElementsByTagName('input')[0].addEventListener('focus', function (event) {
+    event.target.style.backgroundColor = '#befbff';
+});
+
+document.getElementsByTagName('input')[1].addEventListener('focus', function (event) {
+    event.target.style.backgroundColor = '#befbff';
+});
