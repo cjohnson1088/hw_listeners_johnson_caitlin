@@ -30,6 +30,23 @@ p {
     font-family: 'Josefin Slab', serif;
 }
 
+h2,
+form {
+    font-family: 'Playfair Display', serif;
+    margin-bottom: 10px;
+}
+
+form {
+    margin: auto;
+    padding-bottom: 15px;
+}
+
+form input {
+    display: block;
+    width: 50%;
+    margin-bottom: 10px;
+}
+
 footer {
     background-color: #80ebf3;
     padding: 6px;
