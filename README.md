@@ -10,7 +10,11 @@ I used this to create gradients, border radius, and box shadows.
 
 I used this to learn more about creating a focus event listener.
 
+<<<<<<< HEAD
 * [Color Changing Event Listener](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_addeventlistener5)
+=======
+* [Color Changing Event Listner](https://www.w3schools.com/jsref/tryit.asp?filename=tryjsref_document_addeventlistener5)
+>>>>>>> 113dc7b06e3fc1e8d939f433f61419f7dddd24ec
 
 I used this to learn more about changing the color of something with an event listener.
 
